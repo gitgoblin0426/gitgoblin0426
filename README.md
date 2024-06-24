@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full Stack & Blockchain Engineer</h1>
+<h1 align="center">Senior Full Stack Developer</h1>
 
 ###
 
@@ -9,9 +9,9 @@
 - 🔭 <b>Frontend</b> : React/Next.js, Vue/Nuxt.js, Three.js
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- 👨‍💻 <b>Backend</b> : Golang, PHP / Laravel, CI, Node.js / Express, Python / Django
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, Go, PHP, Python, Solidity
 
 ###
 
